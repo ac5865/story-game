@@ -13,12 +13,6 @@ A simple yet fun interactive story game built using **React**. Navigate through 
 
 ---
 
-## 🖼️ Preview
-
-![Story Preview](./preview.png) *(Add your own image if available)*
-
----
-
 ## 📦 Installation
 
 ```bash
